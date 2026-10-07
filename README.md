@@ -6,9 +6,7 @@ A Python-based Movie Recommendation System with a graphical user interface (GUI)
 
 
 
-The system recommends similar movies based on the selected movie using
-
-\*\*TF-IDF Vectorization\*\* and \*\*Cosine Similarity\*\*.
+The system recommends similar movies based on the selected movie using \*\*TF-IDF Vectorization\*\* and \*\*Cosine Similarity\*\*.
 
 
 
@@ -20,9 +18,7 @@ The system recommends similar movies based on the selected movie using
 
 
 
-The Movie Recommendation System helps users discover movies similar to a
-
-movie they already like.
+The Movie Recommendation System helps users discover movies similar to a movie they already like.
 
 
 
@@ -150,9 +146,7 @@ TF-IDF stands for:
 
 
 
-Cosine Similarity compares the movie vectors and calculates how similar
-
-two movies are.
+Cosine Similarity compares the movie vectors and calculates how similar two movies are.
 
 
 
@@ -202,11 +196,7 @@ Select Top 5 Movies
 
 &#x20;    ↓
 
-Display Recommendationss
-
-
-
-\## 📂 Project Structure
+Display Recommendations
 
 
 
